@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/stairClone.cs">
+    <Files>
+      <File FileName="Assets/scripts/stairClone.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/characterMove.cs" Line="23" Column="43" />
+      <File FileName="Assets/scripts/stairManager.cs" Line="29" Column="9" />
+      <File FileName="../../Class12/bowlingball/Assets/script/sinebounce.cs" Line="9" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
